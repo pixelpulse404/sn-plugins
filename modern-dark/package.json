@@ -1,12 +1,12 @@
 {
-  "name": "Coffee",
+  "name": "Test",
   "version": "2.1",
-  "main": "src/main.css",
+  "main": "modern-dark/src/main.css",
   "sn": {
-    "main": "src/main.css"
+    "main": "modern-dark/src/main.css"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/PASSK3YS/coffee.git"
+    "url": "git://github.com/pixelpulse404/sn-plugins.git"
   }
 }
