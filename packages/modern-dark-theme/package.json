@@ -1,12 +1,12 @@
 {
   "name": "modern-dark",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/pixelpulse404/sn-plugins.git",
     "directory": "packages/modern-dark-theme"
   },
-  "main": "packages/modern-dark/src/main.css",
+  "main": "packages/modern-dark-theme/src/main.css",
   "author": "JE Notes",
   "publishConfig": {
     "access": "public"
@@ -15,7 +15,7 @@
     "name": "modern-dark",
     "content_type": "SN|Theme",
     "area": "themes",
-    "main": "packages/modern-dark/src/main.css",
+    "main": "packages/modern-dark-theme/src/main.css",
     "showInGallery": true
   }
 }
