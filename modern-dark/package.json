@@ -1,18 +1,18 @@
 {
-  "name": "@standardnotes/dracula-theme",
-  "version": "1.2.4",
+  "name": "@jalal/sample-theme",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/standardnotes/plugins",
-    "directory": "packages/com.sncommunity.dracula-theme"
+    "url": "https://github.com/standardnotes/plugins.git",
+    "directory": "modern-dark"
   },
   "main": "dist/dist.css",
-  "author": "Standard Notes",
+  "author": "JE Notes",
   "publishConfig": {
     "access": "public"
   },
   "sn": {
-    "name": "Dracula",
+    "name": "Sample",
     "content_type": "SN|Theme",
     "area": "themes",
     "main": "dist/dist.css",
