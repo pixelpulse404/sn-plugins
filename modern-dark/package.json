@@ -1,9 +1,9 @@
 {
   "name": "@jalal/sample-theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/standardnotes/plugins.git",
+    "url": "https://github.com/pixelpulse404/sn-plugins.git",
     "directory": "modern-dark"
   },
   "main": "dist/dist.css",
