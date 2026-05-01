@@ -1,6 +1,6 @@
 {
   "name": "modern-dark",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "repository": {
     "type": "git",
     "url": "https://github.com/pixelpulse404/sn-plugins.git",
@@ -12,7 +12,7 @@
     "access": "public"
   },
   "sn": {
-    "name": "Sample",
+    "name": "modern-dark",
     "content_type": "SN|Theme",
     "area": "themes",
     "main": "packages/modern-dark/src/main.css",
