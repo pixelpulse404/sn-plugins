@@ -9,16 +9,16 @@
   "description": "A test theme",
   "author": "JE",
   "license": "GPL-3.0",
-  "main": "src/theme.css",
+  "main": "dist/theme.css",
   "sn": {
     "name": "Test Theme",
     "content_type": "SN|Theme",
     "area": "themes",
-    "main": "src/theme.css",
+    "main": "dist/theme.css",
     "showInGallery": true
   },
   "scripts": {
-    "build": "shx rm -rf dist && shx mkdir -p dist && shx cp src/*.css dist/ && shx cp plugin.json src/"
+    "build": "shx rm -rf dist && shx mkdir -p dist && shx cp src/*.css dist/ && shx cp plugin.json dist/"
   },
   "devDependencies": {
     "shx": "^0.4.0"
