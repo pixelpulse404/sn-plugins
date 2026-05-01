@@ -1,9 +1,0 @@
-{
-  "identifier": "com.sncommunity.test-theme",
-  "name": "Test Theme",
-  "content_type": "SN|Theme",
-  "area": "themes",
-  "version": "1.0.0",
-  "description": "A test inspired theme for Standard Notes.",
-  "url": "https://github.com/pixelpulse404/sn-plugins/blob/main/modern-dark/plugin.json"
-}

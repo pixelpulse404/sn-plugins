@@ -1,26 +1,12 @@
 {
-  "name": "@standardnotes/test-theme",
-  "version": "1.0.0",
+  "name": "Coffee",
+  "version": "2.1",
+  "main": "src/main.css",
+  "sn": {
+    "main": "src/main.css"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pixelpulse404/sn-plugins",
-    "directory": "modern-dark"
-  },
-  "description": "A test theme",
-  "author": "JE",
-  "license": "GPL-3.0",
-  "main": "dist/theme.css",
-  "sn": {
-    "name": "Test Theme",
-    "content_type": "SN|Theme",
-    "area": "themes",
-    "main": "dist/theme.css",
-    "showInGallery": true
-  },
-  "scripts": {
-    "build": "shx rm -rf dist && shx mkdir -p dist && shx cp src/*.css dist/ && shx cp plugin.json dist/"
-  },
-  "devDependencies": {
-    "shx": "^0.4.0"
+    "url": "git://github.com/PASSK3YS/coffee.git"
   }
 }
