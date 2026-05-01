@@ -4,7 +4,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/pixelpulse404/sn-plugins.git",
-    "directory": "./modern-dark"
+    "directory": "modern-dark"
   },
   "main": "dist/dist.css",
   "author": "JE Notes",
