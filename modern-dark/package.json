@@ -1,24 +1,24 @@
 {
-  "name": "@standardnotes/coffee-theme",
-  "version": "1.0.3",
+  "name": "@standardnotes/test-theme",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/standardnotes/plugins",
-    "directory": "packages/com.sncommunity.coffee-theme"
+    "url": "https://github.com/pixelpulse404/sn-plugins",
+    "directory": "modern-dark"
   },
-  "description": "A coffee inspired theme for Standard Notes.",
-  "author": "Passkeys",
+  "description": "A test theme",
+  "author": "JE",
   "license": "GPL-3.0",
-  "main": "dist/theme.css",
+  "main": "src/theme.css",
   "sn": {
-    "name": "Coffee Theme",
+    "name": "Test Theme",
     "content_type": "SN|Theme",
     "area": "themes",
-    "main": "dist/theme.css",
+    "main": "src/theme.css",
     "showInGallery": true
   },
   "scripts": {
-    "build": "shx rm -rf dist && shx mkdir -p dist && shx cp src/*.css dist/ && shx cp plugin.json dist/"
+    "build": "shx rm -rf dist && shx mkdir -p dist && shx cp src/*.css dist/ && shx cp plugin.json src/"
   },
   "devDependencies": {
     "shx": "^0.4.0"
